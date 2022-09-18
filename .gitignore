@@ -2,3 +2,4 @@
 */*.html
 */*.pdf
 .DS_store
+*/catboost_info/
